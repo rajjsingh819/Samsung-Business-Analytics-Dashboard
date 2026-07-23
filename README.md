@@ -2,8 +2,8 @@
 
 ## 📌 Project Overview
 
-- This project presents an interactive Power BI dashboard developed to analyze Samsung business performance. The dashboard provides meaningful insights into sales, 
-    product performance, and key business metrics through visually appealing and interactive reports.
+- This project presents an interactive Power BI dashboard developed to analyze Samsung business performance. The dashboard provides meaningful insights into sales,
+        <br>product performance, and key business metrics through visually appealing and interactive reports.
 - The objective of this dashboard is to help stakeholders monitor business performance and make informed decisions using real-time visual analytics.
 
 ## 🚀 Features
@@ -41,9 +41,9 @@
 Samsung-Sales-Dashboard-PowerBI
 
 ├── samsung dashboard.pbix  <br>
-├── README.md
-├── Dashboard Screenshot.png
-└── Dataset
+├── README.md  <br>
+├── Dashboard Screenshot.png  <br>
+└── Dataset   
 
 ## 📈 Skills Demonstrated
 
@@ -62,7 +62,7 @@ To transform raw business data into meaningful visual insights that help managem
 
 ## 📸 Dashboard Preview
 
-(Add dashboard screenshot here)
+dashboard-overview.png
 
 ## 👨‍💻 Author
 
